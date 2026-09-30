@@ -59,7 +59,7 @@ export default function Section2() {
           {/* MAIN IMAGE */}
           <article className="group relative min-h-[520px] overflow-hidden rounded-[3px] bg-[#0C2639] lg:min-h-[680px]">
             <Image
-              src="/images/section2/Asset1.png"
+              src="/images/section2/asset1.png"
               alt="ORVIA premium blue padel court"
               fill
               priority
@@ -74,7 +74,7 @@ export default function Section2() {
             {/* ACTION */}
             <article className="group relative min-h-[320px] overflow-hidden rounded-[3px] bg-[#0C2639]">
               <Image
-                src="/images/section2/Asset2.png"
+                src="/images/section2/asset2.png"
                 alt="Padel players competing on an ORVIA court"
                 fill
                 quality={88}
@@ -86,7 +86,7 @@ export default function Section2() {
             {/* LIFESTYLE */}
             <article className="group relative min-h-[320px] overflow-hidden rounded-[3px] bg-[#0C2639]">
               <Image
-                src="/images/section2/Asset3.png"
+                src="/images/section2/asset3.png"
                 alt="ORVIA Padel court-side equipment"
                 fill
                 quality={88}
