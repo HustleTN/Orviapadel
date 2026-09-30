@@ -1,4 +1,5 @@
 import Contact from "../../components/contact";
+import Footer from "../../components/footer";
 import Header from "../../components/header";
 import Section1 from "../../components/section1";
 import Section2 from "../../components/section2";
@@ -14,6 +15,7 @@ export default function Home() {
       <Section3 />
       <Section4 />
       <Contact />
+      <Footer />
 
       {/* next section */}
     </main>
