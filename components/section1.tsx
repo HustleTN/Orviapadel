@@ -66,7 +66,7 @@ export default function Section1() {
           </p>
         </div>
 
-        {/* MAIN STORY */}
+        {/* MAIN STORY STORY STORY */}
         <div className="mb-4 overflow-hidden bg-[#071B2A] lg:mb-5">
           <div className="grid lg:grid-cols-[0.38fr_0.62fr]">
             {/* COPY */}
