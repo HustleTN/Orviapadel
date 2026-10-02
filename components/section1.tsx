@@ -14,7 +14,7 @@ const levels = [
     title: "YOUR FIRST SESSIONS",
     description:
       "Learn positioning, movement and the fundamentals of playing with the glass.",
-    image: "/images/section1/image1.png",
+    image: "/images/section5/image1.png",
     background: "#0875C9",
   },
   {
@@ -23,7 +23,7 @@ const levels = [
     title: "FIND YOUR RHYTHM",
     description:
       "Build consistency, smarter shot selection and confidence under pressure.",
-    image: "/images/section1/image2.png",
+    image: "/images/section5/image2.png",
     background: "#0A5F9D",
   },
   {
@@ -32,7 +32,7 @@ const levels = [
     title: "OWN YOUR GAME",
     description:
       "Refine tactics, transitions and match awareness when every point matters.",
-    image: "/images/section1/image3.png",
+    image: "/images/section5/image3.png",
     background: "#071B2A",
   },
 ];
@@ -102,7 +102,7 @@ export default function Section1() {
             {/* WIDE IMAGE */}
             <div className="group relative min-h-[340px] overflow-hidden sm:min-h-[420px] lg:min-h-[500px]">
               <Image
-                src="/images/section1/image4.png"
+                src="/images/section5/image4.png"
                 alt="ORVIA Padel coaching session"
                 fill
                 quality={88}
