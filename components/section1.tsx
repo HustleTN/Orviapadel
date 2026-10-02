@@ -44,7 +44,7 @@ export default function Section1() {
       className={`${robotoCondensed.className} bg-[#F4F8FA] px-4 py-20 text-[#071B2A] sm:px-5 lg:px-6 lg:py-[120px]`}
     >
       <div className="mx-auto max-w-[1440px]">
-        {/* HEADER */}
+        {/* HEADER 2 and 1 */}
         <div className="mb-12 grid items-start gap-8 lg:mb-16 lg:grid-cols-[1fr_2.1fr_1fr] lg:gap-12">
           <div className="flex items-center gap-2.5 pt-2.5">
             <span className="h-[7px] w-[7px] rounded-full bg-[#DFFD44]" />
